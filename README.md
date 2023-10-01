@@ -7,8 +7,12 @@
 </p>
 
 
-- 🔭 I’m currently working on [yacdem.uz](https://training.yacdem.uz/) - 🌱 I’m currently learning **Python, NodeJS, GO** - 👯 I’m looking to collaborate on [admin.yacdem.uz](https://admin.yacdem.uz/) - 👨‍💻 All of my projects are available at [https://abdulbositt.netlify.app/](https://abdulbositt.netlify.app/)
-- 💬 Ask me about **react, vue, node** - 📫 How to reach me **uzdev7@gmail.com**
+- 🔭 I’m currently working on [yacdem.uz](https://training.yacdem.uz/)
+- 🌱 I’m currently learning **Python, NodeJS, GO**
+- 👯 I’m looking to collaborate on [admin.yacdem.uz](https://admin.yacdem.uz/) 
+- 👨‍💻 All of my projects are available at [https://abdulbositt.netlify.app/](https://abdulbositt.netlify.app/)
+- 💬 Ask me about **react, vue, node** 
+- 📫 How to reach me **uzdev7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
