@@ -1,6 +1,6 @@
 <h1 align="center">Abdulbosit Tuychiev</h1>
 <h3 align="center">A passionate Full Stack developer from Uzbekistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbosit19980204&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbosit19980204" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbosit19980204&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abdulbosit19980204" /> </p>
 
 <p align="center">
     <a href="https://github.com/abdulbosit19980204"><img src="https://github-profile-trophy.vercel.app/?username=abdulbosit19980204&theme=onedark&row=2&column=5&margin-w=15&margin-h=15" alt="abdulbosit19980204" /></a>
