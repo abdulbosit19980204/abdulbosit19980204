@@ -16,10 +16,12 @@
 - 📫 How to reach me **uzdev7@gmail.com**   
 </pre>
 
+<h5 align="left">
 <pre>
-    
-<h5 align="center">Connect with me:</h5>
-<p align="center">
+    Connect with me:
+</pre>
+    </h5>
+<p align="left">
     <span>
         <a href="https://linkedin.com/in/abdulbosit-tuychiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulbosit-tuychiev" height="30" width="40" /></a>
     </span>
@@ -29,7 +31,6 @@
     <a href="https://www.youtube.com/c/abdulbosittoychiyev5157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdulbosittoychiyev5157" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/abdulbosit199801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulbosit199801" height="30" width="40" /></a>
 </p>
-</pre>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
