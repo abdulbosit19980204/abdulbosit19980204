@@ -1,5 +1,5 @@
 <h1 align="center"><pre>Abdulbosit Tuychiev </pre></h1>
-<h3 align="center">A passionate Full Stack developer from Uzbekistan</h3>
+<h3 align="center"><pre>A passionate Full Stack developer from Uzbekistan</pre></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbosit19980204&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abdulbosit19980204" /> </p>
 
 <p align="center">
@@ -7,22 +7,30 @@
 <!--     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbosit19980204" alt="abdulbosit19980204" /></a> -->
 </p>
 
-
-- 🔭 I’m currently working on [yacdem.uz](https://training.yacdem.uz/)
+<pre>
+ - 🔭 I’m currently working on [yacdem.uz](https://training.yacdem.uz/)
 - 🌱 I’m currently learning **Python, NodeJS, GO**
 - 👯 I’m looking to collaborate on [admin.yacdem.uz](https://admin.yacdem.uz/) 
 - 👨‍💻 All of my projects are available at [https://abdulbositt.netlify.app/](https://abdulbositt.netlify.app/)
 - 💬 Ask me about **react, vue, node** 
-- 📫 How to reach me **uzdev7@gmail.com**
+- 📫 How to reach me **uzdev7@gmail.com**   
+</pre>
 
+<pre>
+    
 <h3 align="left">Connect with me:</h3>
+</pre>
 <p align="left">
-    <a href="https://linkedin.com/in/abdulbosit-tuychiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulbosit-tuychiev" height="30" width="40" /></a>
-    <a href="https://instagram.com/abdulbosit_tatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulbosit_tatu" height="30" width="40" /></a>
+    <span>
+        <a href="https://linkedin.com/in/abdulbosit-tuychiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulbosit-tuychiev" height="30" width="40" /></a>
+    </span>
+    <span>
+        <a href="https://instagram.com/abdulbosit_tatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulbosit_tatu" height="30" width="40" /></a>
+    </span>
     <a href="https://www.youtube.com/c/abdulbosittoychiyev5157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdulbosittoychiyev5157" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/abdulbosit199801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulbosit199801" height="30" width="40" /></a>
 </p>
-
+<pre>==============================================================================================</pre>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
