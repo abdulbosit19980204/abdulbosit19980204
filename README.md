@@ -8,10 +8,10 @@
 </p>
 
 <pre>
- - 🔭 I’m currently working on [yacdem.uz](https://training.yacdem.uz/)
-- 🌱 I’m currently learning **Python, NodeJS, GO**
+ - 🔭 I’m currently working at Gloriya Global
+- 🌱 I’m currently learning **Python - Full Stack**
 - 👯 I’m looking to collaborate on [admin.yacdem.uz](https://admin.yacdem.uz/)
-- 👨‍💻 All of my projects are available at [https://abdulbositt.netlify.app/](https://abdulbositt.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://abdulbositt.netlify.app/](https://abdulbositt.netlify.app/)
 - 💬 Ask me about **react, vue, node**
 - 📫 How to reach me **uzdev7@gmail.com**
 </pre>
