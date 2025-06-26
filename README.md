@@ -1,5 +1,5 @@
 <h1 align="center"><pre>Welcome!</pre></h1>
-<h3 align="center"><pre>Full Stack Developer from Uzbekistan</pre></h3>
+<h3 align="center"><pre>Django & Full Stack Developer from Uzbekistan</pre></h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=abdulbosit19980204&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abdulbosit19980204" />
@@ -10,13 +10,18 @@
 </p>
 
 <pre>
-- 🔭 Software Developer at Gloriya Global
-- 🌱 Mastering <b>Python Full Stack</b> & DevOps
-- 👯 Eager to collaborate on <b>React, Vue, Node.js</b> projects at <a href="https://admin.yacdem.uz/">admin.yacdem.uz</a>
+- 🔭 Django Developer at Gloriya Global
+- 🌱 Expert in <b>Django & DRF</b>, building scalable APIs
+- 👯 Join me on <b>Django/DRF</b> projects at <a href="https://admin.yacdem.uz/">admin.yacdem.uz</a>
 - 👨‍💻 Portfolio: <a href="https://abdulbositt.netlify.app/">abdulbositt.netlify.app</a>
-- 💬 Ask about React, Vue, Node.js, Django
-- 📫 Contact: <b>uzdev7@gmail.com</b>
+- 💬 Ask about Django, DRF, React, Node.js
+- 📫 Email: <b>uzdev7@gmail.com</b>
 </pre>
+
+<h3 align="center"><pre>Featured Django Project</pre></h3>
+<p align="center">
+    <a href="https://github.com/abdulbosit19980204/your-django-project"><img src="https://img.shields.io/badge/Django%20Project-API%20Showcase-brightgreen?logo=django&style=for-the-badge" alt="Django Project" /></a>
+</p>
 
 <h3 align="left"><pre>Connect with Me:</pre></h3>
 <p align="left">
@@ -33,7 +38,7 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="django-rest" width="60" height="60" /></a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/deviconasel
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
@@ -46,5 +51,4 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulbosit19980204&theme=monokai" alt="Profile Summary" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulbosit19980204&theme=monokai" alt="Repos per Language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulbosit19980204&theme=monokai" alt="Most Commit Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulbosit19980204&theme=monokai" alt="Stats" />
 </p>
