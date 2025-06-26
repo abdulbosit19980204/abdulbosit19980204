@@ -1,4 +1,4 @@
-<h1 align="center"><pre>Abdulbosit Tuychiev </pre></h1>
+<h1 align="center"><pre>Welcome!</pre></h1>
 <h3 align="center"><pre>A passionate Full Stack developer from Uzbekistan</pre></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbosit19980204&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abdulbosit19980204" /> </p>
 
