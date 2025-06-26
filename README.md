@@ -12,7 +12,7 @@
 <pre>
 - 🔭 Django Developer at Gloriya Global
 - 🌱 Expert in <b>Django & DRF</b>, building scalable APIs
-- 👯 Join me on <b>Django/DRF</b> projects at <a href="https://admin.yacdem.uz/">admin.yacdem.uz</a>
+- 👯 Join me on <b>Django/DRF</b> projects at <a href="https://med-taxlil.uz/">med-taxlil.uz</a> (Note: yacdem.uz is a separate Node.js project)
 - 👨‍💻 Portfolio: <a href="https://abdulbositt.netlify.app/">abdulbositt.netlify.app</a>
 - 💬 Ask about Django, DRF, React, Node.js
 - 📫 Email: <b>uzdev7@gmail.com</b>
@@ -27,15 +27,20 @@
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 0;">
-      <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Eimzo" /> <strong>Eimzo </strong> </a> <br>Electronic signature API<br>Tech: Django, DRF, PostgreSQL<br><br>
-      <a href="https://github.com/abdulbosit19980204/analitical"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Analitical" />Analitical </a> <br>Analytics backend<br>Tech: Django, DRF, MongoDB
+      <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Eimzo" /></a> Django | Eimzo<br>Electronic signature API<br>Tech: Django, DRF, PostgreSQL<br><br>
+      <a href="https://github.com/abdulbosit19980204/analitical"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Analitical" /></a> Django | Analitical<br>Analytics backend<br>Tech: Django, DRF, MongoDB<br><br>
+      <a href="https://github.com/abdulbosit19980204/medtaxlil-new"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="medtaxlil-new" /></a> Django | medtaxlil-new<br>ECG Analysis & Medication Recommendation<br>Tech: Django, DRF, OpenCV, Neurokit2, Scikit-learn, NumPy, Pandas, PostgreSQL, JWT, (Docker, Nginx, Gunicorn)
     </td>
     <td style="vertical-align: top; padding: 0;">
-      <a href="https://github.com/abdulbosit19980204/e-signer-template"><img src="https://img.shields.io/badge/-Full%20Stack-0e75b6?logo=html5&style=flat-square" alt="E-Signer Template" /> E-Signer Template </a> <br>Email signature generator<br>Tech: Django, HTML5, CSS, JavaScript
+      <a href="https://github.com/abdulbosit19980204/e-signer-template"><img src="https://img.shields.io/badge/-Full%20Stack-0e75b6?logo=html5&style=flat-square" alt="E-Signer Template" /></a> Django | E-Signer Template<br>Email signature generator<br>Tech: Django, HTML5, CSS, JavaScript
     </td>
     <td style="vertical-align: top; padding: 0;">
-      <a href="https://github.com/abdulbosit19980204/ibrat-talim-bot"><img src="https://img.shields.io/badge/-Python-ffffff?logo=python&style=flat-square&labelColor=ffffff&color=0e75b6" alt="Ibrat Talim Bot" /> Ibrat Talim Bot </a> <br>Educational Telegram bot<br>Tech: Python, Telegram API<br><br>
-      <a href="https://github.com/abdulbosit19980204/imei"><img src="https://img.shields.io/badge/-Python-ffffff?logo=python&style=flat-square&labelColor=ffffff&color=0e75b6" alt="IMEI" /> IMEI </a> <br>IMEI validation utility<br>Tech: Python
+      <a href="https://github.com/abdulbosit19980204/ibrat-talim-bot"><img src="https://img.shields.io/badge/-Python-ffffff?logo=python&style=flat-square&labelColor=ffffff&color=0e75b6" alt="Ibrat Talim Bot" /></a> Python | Ibrat Talim Bot<br>Educational Telegram bot<br>Tech: Python, Telegram API<br><br>
+      <a href="https://github.com/abdulbosit19980204/imei"><img src="https://img.shields.io/badge/-Python-ffffff?logo=python&style=flat-square&labelColor=ffffff&color=0e75b6" alt="IMEI" /></a> Python | IMEI<br>IMEI validation utility<br>Tech: Python<br><br>
+      <a href="https://github.com/abdulbosit19980204/ekg-analysis"><img src="https://img.shields.io/badge/-Python-ffffff?logo=python&style=flat-square&labelColor=ffffff&color=0e75b6" alt="ekg-analysis" /></a> Python | ekg-analysis<br>ECG analysis tool<br>Tech: Python<br><br>
+      <a href="https://github.com/abdulbosit19980204/projects/tree/master/python/balita"><img src="https://img.shields.io/badge/-Python-ffffff?logo=python&style=flat-square&labelColor=ffffff&color=0e75b6" alt="balita" /></a> Python | balita<br>Python utility<br>Tech: Python<br><br>
+      <a href="https://github.com/abdulbosit19980204/projects/tree/master/python/moose"><img src="https://img.shields.io/badge/-Python-ffffff?logo=python&style=flat-square&labelColor=ffffff&color=0e75b6" alt="moose" /></a> Python | moose<br>Python utility<br>Tech: Python<br><br>
+      <a href="https://github.com/abdulbosit19980204/projects/tree/master/python/okagramm"><img src="https://img.shields.io/badge/-Python-ffffff?logo=python&style=flat-square&labelColor=ffffff&color=0e75b6" alt="okagramm" /></a> Python | okagramm<br>Python utility<br>Tech: Python
     </td>
   </tr>
 </table>
