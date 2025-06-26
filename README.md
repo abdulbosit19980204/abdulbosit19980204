@@ -29,7 +29,7 @@
     <td style="vertical-align: top; padding: 0;">
       <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Eimzo" /></a> Django | Eimzo<br>Electronic signature API<br>Tech: Django, DRF, PostgreSQL<br><br>
       <a href="https://github.com/abdulbosit19980204/analitical"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Analitical" /></a> Django | Analitical<br>Analytics backend<br>Tech: Django, DRF, MongoDB<br><br>
-      <a href="https://github.com/abdulbosit19980204/medtaxlil-new"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="medtaxlil-new" /></a> Django | medtaxlil-new<br>ECG Analysis & Medication Recommendation<br>Tech: Django, DRF, OpenCV, Neurokit2, Scikit-learn, NumPy, Pandas, PostgreSQL, JWT, (Docker, Nginx, Gunicorn)
+      <a href="https://github.com/abdulbosit19980204/medtaxlil-new"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="medtaxlil-new" /></a> Django | medtaxlil-new<br>ECG Analysis & Medication Recommendation<br>Tech: Django, DRF, OpenCV, Neurokit2, Scikit-learn, NumPy, Pandas, PostgreSQL, JWT, (Docker, Nginx, Gunicorn)<br><br>
         <a href="https://github.com/abdulbosit19980204/ekg-analysis"><img src="https://img.shields.io/badge/-Python-ffffff?logo=python&style=flat-square&labelColor=ffffff&color=0e75b6" alt="ekg-analysis" /></a> Python | ekg-analysis<br>ECG analysis tool<br>Tech: Python<br><br>
     </td>
     <td style="vertical-align: top; padding: 0;">
