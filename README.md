@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 0;">
-      <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Eimzo" /><Django | Eimzo /a> <br>Electronic signature API<br>Tech: Django, DRF, PostgreSQL<br><br>
+      <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Eimzo" /></a> Django | Eimzo<br>Electronic signature API<br>Tech: Django, DRF, PostgreSQL<br><br>
       <a href="https://github.com/abdulbosit19980204/analitical"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Analitical" /></a> Django | Analitical<br>Analytics backend<br>Tech: Django, DRF, MongoDB
     </td>
     <td style="vertical-align: top; padding: 0;">
