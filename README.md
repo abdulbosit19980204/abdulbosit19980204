@@ -19,18 +19,23 @@
 </pre>
 
 <h3 align="center"><pre>Projects</pre></h3>
-<p align="left">
-  <b>Django/DRF APIs</b><br>
-  <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/Eimzo-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Eimzo" /> Eimzo</a> - Electronic signature API with Django REST Framework.<br>
-  <a href="https://github.com/abdulbosit19980204/analitical"><img src="https://img.shields.io/badge/Analitical-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Analitical" /> Analitical</a> - Analytics platform backend with PostgreSQL and DRF.<br><br>
-
-  <b>Python Bots & Utilities</b><br>
-  <a href="https://github.com/abdulbosit19980204/ibrat-talim-bot"><img src="https://img.shields.io/badge/Ibrat%20Talim%20Bot-Python-0e75b6?logo=python&style=flat-square" alt="Ibrat Talim Bot" /> Ibrat Talim Bot</a> - Telegram bot for educational purposes.<br>
-  <a href="https://github.com/abdulbosit19980204/imei"><img src="https://img.shields.io/badge/IMEI-Utility-0e75b6?logo=python&style=flat-square" alt="IMEI" /> IMEI</a> - Python utility for IMEI validation and processing.<br><br>
-
-  <b>Frontend & Templates</b><br>
-  <a href="https://github.com/abdulbosit19980204/e-signer-template"><img src="https://img.shields.io/badge/E%20Signer%20Template-Frontend-0e75b6?logo=html5&style=flat-square" alt="E-Signer Template" /> E-Signer Template</a> - Responsive email signature template generator.<br>
-</p>
+<table>
+  <tr>
+    <th width="50%">Backend & API</th>
+    <th width="50%">Frontend & Templates</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/Eimzo-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Eimzo" /> Eimzo</a><br>Electronic signature API.<br><br>
+      <a href="https://github.com/abdulbosit19980204/analitical"><img src="https://img.shields.io/badge/Analitical-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Analitical" /> Analitical</a><br>Analytics backend with DRF.<br><br>
+      <a href="https://github.com/abdulbosit19980204/ibrat-talim-bot"><img src="https://img.shields.io/badge/Ibrat%20Talim-Python-0e75b6?logo=python&style=flat-square" alt="Ibrat Talim Bot" /> Ibrat Talim Bot</a><br>Educational Telegram bot.<br><br>
+      <a href="https://github.com/abdulbosit19980204/imei"><img src="https://img.shields.io/badge/IMEI-Python-0e75b6?logo=python&style=flat-square" alt="IMEI" /> IMEI</a><br>IMEI validation utility.
+    </td>
+    <td>
+      <a href="https://github.com/abdulbosit19980204/e-signer-template"><img src="https://img.shields.io/badge/E%20Signer-Frontend-0e75b6?logo=html5&style=flat-square" alt="E-Signer Template" /> E-Signer Template</a><br>Email signature generator.
+    </td>
+  </tr>
+</table>
 
 <h3 align="center"><pre>Featured Django Project</pre></h3>
 <p align="center">
