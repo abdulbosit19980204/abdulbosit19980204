@@ -8,12 +8,12 @@
 </p>
 
 <pre>
- - 🔭 I’m currently working at Gloriya Global
-- 🌱 I’m currently learning **Python - Full Stack**
-- 👯 I’m looking to collaborate on [admin.yacdem.uz](https://admin.yacdem.uz/)
-- 👨‍💻 Some of my projects are available at [https://abdulbositt.netlify.app/](https://abdulbositt.netlify.app/)
-- 💬 Ask me about **react, vue, node**
-- 📫 How to reach me **uzdev7@gmail.com**
+- 🔭 **Currently**: Building innovative solutions as a Software Developer at Gloriya Global.
+- 🌱 **Learning**: Advancing my skills in **Python Full Stack** development for scalable, modern applications.
+- 👯 **Collaboration**: Eager to team up on **web development projects** (React, Vue, Node.js) or contribute to platforms like [admin.yacdem.uz](https://admin.yacdem.uz/)—let’s create something impactful!
+- 👨‍💻 **Portfolio**: Discover my work at [abdulbositt.netlify.app](https://abdulbositt.netlify.app/), featuring full-stack projects.
+- 💬 **Ask Me About**: Front-end (React, Vue), back-end (Node.js), or Python-based solutions.
+- 📫 **Contact**: Reach me at **uzdev7@gmail.com** for project ideas or opportunities.
 </pre>
 
 <h3 align="left">
