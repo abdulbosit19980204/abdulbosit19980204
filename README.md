@@ -21,23 +21,20 @@
 <h3 align="center"><pre>Projects</pre></h3>
 <p align="left">
   <b>Django/DRF APIs</b><br>
-  <a href="https://github.com/abdulbosit19980204/yacdem-api"><img src="https://img.shields.io/badge/Yacdem%20API-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Yacdem API" /> Yacdem API</a> - Scalable REST API for admin.yacdem.uz using Django REST Framework.<br>
-  <a href="https://github.com/abdulbosit19980204/ecommerce-api"><img src="https://img.shields.io/badge/Ecommerce%20API-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Ecommerce API" /> Ecommerce API</a> - Backend for an ecommerce platform with PostgreSQL.<br><br>
+  <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/Eimzo-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Eimzo" /> Eimzo</a> - Electronic signature API with Django REST Framework.<br>
+  <a href="https://github.com/abdulbosit19980204/analitical"><img src="https://img.shields.io/badge/Analitical-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Analitical" /> Analitical</a> - Analytics platform backend with PostgreSQL and DRF.<br><br>
 
-  <b>Frontend Projects</b><br>
-  <a href="https://github.com/abdulbosit19980204/react-dashboard"><img src="https://img.shields.io/badge/Dashboard/React-0e75b6?logo=react&style=flat-square" alt="React Dashboard" /> React Dashboard</a> - Interactive dashboard built with React and Tailwind CSS.<br>
-  <a href="https://github.com/abdulbosit19980204/vue-portfolio"><img src="https://img.shields.io/badge/Portfolio/Vue-0e75b6?logo=vue.js&style=flat-square" alt="Vue Portfolio" /> Vue Portfolio</a> - Personal portfolio site using Vue.js.<br><br>
+  <b>Python Bots & Utilities</b><br>
+  <a href="https://github.com/abdulbosit19980204/ibrat-talim-bot"><img src="https://img.shields.io/badge/Ibrat%20Talim%20Bot-Python-0e75b6?logo=python&style=flat-square" alt="Ibrat Talim Bot" /> Ibrat Talim Bot</a> - Telegram bot for educational purposes.<br>
+  <a href="https://github.com/abdulbosit19980204/imei"><img src="https://img.shields.io/badge/IMEI-Utility-0e75b6?logo=python&style=flat-square" alt="IMEI" /> IMEI</a> - Python utility for IMEI validation and processing.<br><br>
 
-  <b>Full Stack Projects</b><br>
-  <a href="https://github.com/abdulbosit19980204/fullstack-cms"><img src="https://img.shields.io/badge/CMS-Full%20Stack-0e75b6?logo=python&style=flat-square" alt="Full Stack CMS" /> Full Stack CMS</a> - Content management system with Django backend and React frontend.<br><br>
-
-  <b>Tools & DevOps</b><br>
-  <a href="https://github.com/abdulbosit19980204/docker-django"><img src="https://img.shields.io/badge/Django%20Docker-Setup-0e75b6?logo=docker&style=flat-square" alt="Django Docker" /> Django Docker Setup</a> - Dockerized Django app with CI/CD pipeline.
+  <b>Frontend & Templates</b><br>
+  <a href="https://github.com/abdulbosit19980204/e-signer-template"><img src="https://img.shields.io/badge/E%20Signer%20Template-Frontend-0e75b6?logo=html5&style=flat-square" alt="E-Signer Template" /> E-Signer Template</a> - Responsive email signature template generator.<br>
 </p>
 
 <h3 align="center"><pre>Featured Django Project</pre></h3>
 <p align="center">
-    <a href="https://github.com/abdulbosit19980204/yacdem-api"><img src="https://img.shields.io/badge/Yacdem%20API-Django%2FDRF-0e75b6?logo=django&style=for-the-badge" alt="Yacdem API" /></a>
+    <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/Eimzo-Django%2FDRF-0e75b6?logo=django&style=for-the-badge" alt="Eimzo" /></a>
 </p>
 
 <h3 align="left"><pre>Connect with Me:</pre></h3>
