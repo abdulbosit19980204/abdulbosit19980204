@@ -22,17 +22,30 @@
 <table>
   <tr>
     <th width="50%">Backend & API</th>
-    <th width="50%">Frontend & Templates</th>
+    <th width="50%">Frontend</th>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/Eimzo-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Eimzo" /> Eimzo</a><br>Electronic signature API<br>Tech: Django, DRF, PostgreSQL<br><br>
-      <a href="https://github.com/abdulbosit19980204/analitical"><img src="https://img.shields.io/badge/Analitical-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Analitical" /> Analitical</a><br>Analytics backend<br>Tech: Django, DRF, MongoDB<br><br>
-      <a href="https://github.com/abdulbosit19980204/ibrat-talim-bot"><img src="https://img.shields.io/badge/Ibrat%20Talim-Python-0e75b6?logo=python&style=flat-square" alt="Ibrat Talim Bot" /> Ibrat Talim Bot</a><br>Educational Telegram bot<br>Tech: Python, Telegram API<br><br>
-      <a href="https://github.com/abdulbosit19980204/imei"><img src="https://img.shields.io/badge/IMEI-Python-0e75b6?logo=python&style=flat-square" alt="IMEI" /> IMEI</a><br>IMEI validation utility<br>Tech: Python
+      <a href="https://github.com/abdulbosit19980204/analitical"><img src="https://img.shields.io/badge/Analitical-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Analitical" /> Analitical</a><br>Analytics backend<br>Tech: Django, DRF, MongoDB
     </td>
     <td>
       <a href="https://github.com/abdulbosit19980204/e-signer-template"><img src="https://img.shields.io/badge/E%20Signer-Frontend-0e75b6?logo=html5&style=flat-square" alt="E-Signer Template" /> E-Signer Template</a><br>Email signature generator<br>Tech: HTML5, CSS, JavaScript
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th width="50%">Full Stack</th>
+    <th width="50%">Telegram Bot & Other</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/abdulbosit19980204/fullstack-placeholder"><img src="https://img.shields.io/badge/Full%20Stack-Django%2FReact-0e75b6?logo=react&style=flat-square" alt="Full Stack Project" /> Full Stack Project</a><br>Django & React CMS<br>Tech: Django, DRF, React, PostgreSQL
+    </td>
+    <td>
+      <a href="https://github.com/abdulbosit19980204/ibrat-talim-bot"><img src="https://img.shields.io/badge/Ibrat%20Talim-Python-0e75b6?logo=python&style=flat-square" alt="Ibrat Talim Bot" /> Ibrat Talim Bot</a><br>Educational Telegram bot<br>Tech: Python, Telegram API<br><br>
+      <a href="https://github.com/abdulbosit19980204/imei"><img src="https://img.shields.io/badge/IMEI-Python-0e75b6?logo=python&style=flat-square" alt="IMEI" /> IMEI</a><br>IMEI validation utility<br>Tech: Python
     </td>
   </tr>
 </table>
