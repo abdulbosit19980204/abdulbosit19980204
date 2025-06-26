@@ -27,15 +27,15 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Eimzo" /></a><br>Electronic signature API<br>Tech: Django, DRF, PostgreSQL<br><br>
-      <a href="https://github.com/abdulbosit19980204/analitical"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Analitical" /></a><br>Analytics backend<br>Tech: Django, DRF, MongoDB
+      <a href="https://github.com/abdulbosit19980204/eimzo"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Eimzo" /></a> Django | Eimzo<br>Electronic signature API<br>Tech: Django, DRF, PostgreSQL<br><br>
+      <a href="https://github.com/abdulbosit19980204/analitical"><img src="https://img.shields.io/badge/-Django%2FDRF-0e75b6?logo=django&style=flat-square" alt="Analitical" /></a> Django | Analitical<br>Analytics backend<br>Tech: Django, DRF, MongoDB
     </td>
     <td>
-      <a href="https://github.com/abdulbosit19980204/e-signer-template"><img src="https://img.shields.io/badge/-Full%20Stack-0e75b6?logo=html5&style=flat-square" alt="E-Signer Template" /></a><br>Email signature generator<br>Tech: Django, HTML5, CSS, JavaScript
+      <a href="https://github.com/abdulbosit19980204/e-signer-template"><img src="https://img.shields.io/badge/-Full%20Stack-0e75b6?logo=html5&style=flat-square" alt="E-Signer Template" /></a> Django | E-Signer Template<br>Email signature generator<br>Tech: Django, HTML5, CSS, JavaScript
     </td>
     <td>
-      <a href="https://github.com/abdulbosit19980204/ibrat-talim-bot"><img src="https://img.shields.io/badge/-Python-0e75b6?logo=python&style=flat-square" alt="Ibrat Talim Bot" /></a><br>Educational Telegram bot<br>Tech: Python, Telegram API<br><br>
-      <a href="https://github.com/abdulbosit19980204/imei"><img src="https://img.shields.io/badge/-Python-0e75b6?logo=python&style=flat-square" alt="IMEI" /></a><br>IMEI validation utility<br>Tech: Python
+      <a href="https://github.com/abdulbosit19980204/ibrat-talim-bot"><img src="https://img.shields.io/badge/-Python-ffffff?logo=python&style=flat-square&labelColor=ffffff&color=0e75b6" alt="Ibrat Talim Bot" /></a> Python | Ibrat Talim Bot<br>Educational Telegram bot<br>Tech: Python, Telegram API<br><br>
+      <a href="https://github.com/abdulbosit19980204/imei"><img src="https://img.shields.io/badge/-Python-ffffff?logo=python&style=flat-square&labelColor=ffffff&color=0e75b6" alt="IMEI" /></a> Python | IMEI<br>IMEI validation utility<br>Tech: Python
     </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /></a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="django-rest" width="60" height="60" /></a>
+    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="django-rest" width="60" height="60" /></a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
